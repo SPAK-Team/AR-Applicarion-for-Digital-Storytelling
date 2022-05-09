@@ -1,0 +1,3 @@
+spoon/meal/delicious/kind/recipe
+n/n/adj/adj/n
+ช้อน/มื้ออาหาร/ อร่อย/ใจดี/ตำราอาหาร

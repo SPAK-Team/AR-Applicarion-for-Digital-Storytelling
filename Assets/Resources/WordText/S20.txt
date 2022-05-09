@@ -1,0 +1,3 @@
+single/leave/marry/shore/time
+adj/v/v/n/n
+โสด,เดี่ยว,ลำพัง/จากไป,ออกจาก/แต่งงาน/ชายฝั่ง/เวลา

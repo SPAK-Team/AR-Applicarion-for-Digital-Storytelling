@@ -1,0 +1,2 @@
+pass,20,love
+not,10

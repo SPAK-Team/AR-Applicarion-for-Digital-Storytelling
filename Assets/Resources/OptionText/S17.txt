@@ -1,0 +1,2 @@
+pass,22,food
+not,18

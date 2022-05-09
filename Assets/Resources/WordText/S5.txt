@@ -1,0 +1,3 @@
+cover/dark/harmful/foggy/monster
+v/adj/adj/adj/n
+ปกคลุม/มืด,ค่ำ/เป็นอันตราย/หมอกหนา/สัตว์ประหลาด

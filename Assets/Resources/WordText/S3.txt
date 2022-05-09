@@ -1,0 +1,3 @@
+route/information/pass/clear/country
+n/n/v/adj/adj
+เส้นทาง,เส้นทางเดินเรือ/ข้อมูล,ข่าวสาร/ผ่าน/ชัดเจน , โปร่งใส/ประเทศ , ชนบท

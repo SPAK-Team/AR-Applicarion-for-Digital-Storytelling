@@ -1,0 +1,2 @@
+pass,19,wealth
+not,7

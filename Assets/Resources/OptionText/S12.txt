@@ -1,0 +1,2 @@
+pass,21,art
+not,14
