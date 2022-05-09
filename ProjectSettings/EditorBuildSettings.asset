@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: f5d412f4ee6a42949b16f2a84d74e165
+  - enabled: 1
+    path: Assets/Scenes/ARScan.unity
+    guid: 70ce17119a9fa634ba4992a1a5d06621
+  - enabled: 1
+    path: Assets/Scenes/Instruction.unity
+    guid: 35d8830daca9fb34da7c38fe58189227
+  - enabled: 1
+    path: Assets/Scenes/Minigame.unity
+    guid: f39146fe5df326049943a936ec48737c
+  - enabled: 1
+    path: Assets/Scenes/Main_update.unity
+    guid: c7f579e149f2c7e47bfd75d23afc53fe
+  - enabled: 1
+    path: Assets/Scenes/Privilege_update.unity
+    guid: 3e2365a1d4ab1424eb4b0e826d1322fc
+  - enabled: 1
+    path: Assets/Scenes/SumVocaburaly1_update.unity
+    guid: 70450a013c80f1a4da09ef2c72b69f41
+  - enabled: 1
+    path: Assets/Scenes/SumVocaburaly2_update.unity
+    guid: 3199c7840dd2e8e4eaec9405ef8564da
+  - enabled: 1
+    path: Assets/Scenes/SumVocaburaly3_update.unity
+    guid: 6d2acfaef649f2b4a9beef967f0e42e1
+  - enabled: 1
+    path: Assets/Scenes/SumVocaburaly4_update.unity
+    guid: 8a1bc032c1ce4b841a75ebc29c5272eb
+  - enabled: 1
+    path: Assets/Scenes/SumVocaburaly5_update.unity
+    guid: e96cda74b5e3229469380be85486744c
+  - enabled: 1
+    path: Assets/Scenes/Test_update.unity
+    guid: 115e6d524698e544faa75c4bee765dd8
+  - enabled: 1
+    path: Assets/Scenes/ContinueMenu.unity
+    guid: f56d46f07626be04b932dedb363f7483
+  - enabled: 1
+    path: Assets/Scenes/BonusMinigame.unity
+    guid: 070d49a3d253d6e4bba842180a515259
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: d6719f1ac885f684484cd9338ae5d338, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 910163ad2f8a890468eec773aafa853b, type: 2}
